@@ -1,0 +1,6 @@
+**/my-social-frontend/node_modules
+**/my-social-backend/node_modules
+**/my-social-backend/package-lock.json
+**/my-social-frontend/package-lock.json
+
+
